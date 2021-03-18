@@ -1,6 +1,4 @@
-//
-// Created by alex on 10.03.2021.
-//
+
 
 #ifndef NOKIA_CSV_CSV_READER_H
 #define NOKIA_CSV_CSV_READER_H
